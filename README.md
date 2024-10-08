@@ -22,11 +22,11 @@ The application fetches all of the necessary resources and components (below) an
 ## Quick start
 ```bash
 # clone the repo
-git clone https://github.com/opentargets/standalone-deployment-platform.git
+git clone https://github.com/shaileshchaudhary11/standalone-deployment-platform.git
 # navigate to the project
 cd standalone-deployment-platform
 # set the profile
-make set_profile profile=dev
+make set_profile profile=2406
 # start the platform
 make platform_up
 ```
