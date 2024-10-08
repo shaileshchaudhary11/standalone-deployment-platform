@@ -79,7 +79,7 @@ Usage:
   ```
 A general workflow would be:
 1. Edit the [config](profiles/config.dev)
-2. Set the profile: `make set_profile profile='dev'`
+2. Set the profile: `make set_profile profile=2406`
 3. Deploy: `make platform_up`
 4. Make a change to something, then repeat steps 1-3
 5. Tear down: `make platform_down` or remove everything: `make clean`
