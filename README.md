@@ -32,7 +32,7 @@ make platform_up
 ```
 *Note: the first time you specify a data image in your deployment, it will need to download it and this will take a relatively lone time, depending on the size of the image and the speed of the connection. Subsequent deployments with the same data image will not need to re-download, so they will be much faster.*
 
-Visit the platform in your browser http://<ip_address>:20001/
+Visit the platform in your browser http://<ip_address>:20006/
 
 ## Requirements
 - [docker-compose](https://docs.docker.com/get-docker/)
